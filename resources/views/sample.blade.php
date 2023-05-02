@@ -1,0 +1,1 @@
+{!! isset($chat_response) ? $chat_response : '' !!}
